@@ -1,5 +1,6 @@
 # Countdown-BrainF
-Brainfuck code for countdown.
+Brainfuck code for countdown.  
+
 Program Objective:
 Prompt the user to enter a single digit (e.g., '7').
 Convert that ASCII character (like '7', which is ASCII code 55) into its actual numerical value (the number 7).
